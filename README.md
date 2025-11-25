@@ -27,8 +27,14 @@ Désormais il est possbile de chiffrer ses données en les transformant en image
 
 ### Pour se faire une fois arriver sur **YnovTag**, plusieurs actions sont possiblent : 
 
-- Si l'on souhaite encoder une donnée, il vous suffit de cliquer sur le boutton **Encoder mon texte**, cela vous emmène sur la page correspondante, vous entrez votre texte à proteger, vous choisissez ensuite le patherne souhaité, vous appuiyez sur le boutton pour encoder, enfin, votre image est affichée.
+- **Si l'on souhaite encoder une donnée** : 
 
-- si on souhaite decoder, il faut cloquer sur le boutton **Décoder mon image**, emene sur autre page, entre notre image, affiche donnée
+Il vous suffit de cliquer sur le boutton **Encoder mon texte**, cela vous emmène sur la page correspondante, vous entrez votre texte à proteger, vous choisissez ensuite le patherne souhaité, vous appuiyez sur le boutton pour encoder, enfin, votre image est affichée.
 
-- si on veut acceder au compte, on clioque sur boutton du compte, emene sur notre profil, on peut modifier nos infos personnelles, et accéder a l'historique.
+- **Si l'on souhaite décoder une image** : 
+
+Cliquez sur le boutton **Décoder mon image**, ensuite vous serez dirigé sur autre page, vous pourrezz entrer votre image, enfin, votre donnée sera affiché.
+
+- **Si l'on souhaite accéder a notre compte** : 
+
+Il faut cliquer sur le boutton **Mon compte**, cela vous emenera sur votre profil, vous pourrez esnuite modifier vos infos personnelles, et/ou accéder a l'historique.
