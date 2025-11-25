@@ -20,3 +20,15 @@ Notre objectif est de réaliser une interface simple et intuitive pour permettre
 
 - **Authentification** : Inscription ou Connection sécurisée
 - **Sauvegardes** : Sauvegarder l'ensemble des données cyptées pour les retrouver
+
+## Resultat
+
+Désormais il est possbile de chiffrer ses données en les transformant en image.
+
+### Pour se faire une fois arriver sur **YnovTag**, plusieurs actions sont possiblent : 
+
+- Si l'on souhaite encoder une donnée, il vous suffit de cliquer sur le boutton **Encoder mon texte**, cela vous emmène sur la page correspondante, vous entrez votre texte à proteger, vous choisissez ensuite le patherne souhaité, vous appuiyez sur le boutton pour encoder, enfin, votre image est affichée.
+
+- si on souhaite decoder, il faut cloquer sur le boutton **Décoder mon image**, emene sur autre page, entre notre image, affiche donnée
+
+- si on veut acceder au compte, on clioque sur boutton du compte, emene sur notre profil, on peut modifier nos infos personnelles, et accéder a l'historique.
