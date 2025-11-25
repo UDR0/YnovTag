@@ -13,5 +13,10 @@ Notre objectif est de réaliser une interface simple et intuitive pour permettre
 
 ### 1. Les utilisateurs simple avec un accès libre :
 
-- **Chiffrement** : Pouvoir transformer sa donnée en image contenant le message caché
-- **Déchiffrement** : Pouvoir réveler la donnée cachée de son image
+- **Chiffrement** : Transformer sa donnée en image contenant le message caché
+- **Déchiffrement** : Réveler la donnée cachée de son image
+
+### 2. Les utilisateurs connectés :
+
+- **Authentification** : Inscription ou Connection sécurisée
+- **Sauvegardes** : Sauvegarder l'ensemble des données cyptées pour les retrouver
