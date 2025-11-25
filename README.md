@@ -4,7 +4,7 @@
 
 Dans notre société actuelle, sécuriser ses donnée est désormais primordial. Grace à YnovTag, il est désormais possible de transformer vos données sensible en image sécurisée !
 
-Nous utilisons un procédé de stéganographie, c'est à dire dissumuler une information dans un autre fichier pour la rendre indetectable à autrui. \r
+Nous utilisons un procédé de stéganographie, c'est à dire dissumuler une information dans un autre fichier pour la rendre indetectable à autrui.
 Notre objectif est de réaliser une interface simple et intuitive pour permettre à quicqonque, sans nécéssairement de connaisance en cybersécurité de protéger ses données en les transformant en image.
 
 ## Besoin
