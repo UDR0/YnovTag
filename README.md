@@ -2,16 +2,16 @@
 
 ## Contexte
 
-Dans notre société actuelle, sécuriser ses donnée est désormais primordial. Grace à YnovTag, il est désormais possible de transformer vos données sensible en image sécurisée !
+Dans notre société actuelle, **sécuriser ses données** est désormais primordial. Grâce à **YnovTag**, il est désormais possible de **transformer vos données sensibles en image sécurisée !**
 
-Nous utilisons un procédé de stéganographie, c'est à dire dissumuler une information dans un autre fichier pour la rendre indetectable à autrui.
-Notre objectif est de réaliser une interface simple et intuitive pour permettre à quicqonque, sans nécéssairement de connaisance en cybersécurité de protéger ses données en les transformant en image.
+Nous utilisons un procédé de **stéganographie**, c'est-à-dire **dissimuler une information** dans un autre fichier pour la rendre **indétectable** à autrui.
+Notre objectif est de réaliser une interface **simple** et **intuitive** pour permettre à quiconque, sans nécessairement de connaissances en cybersécurité de **protéger ses données en les transformant en image**.
 
 ## Besoin
 
-**YnovTag** à été conçu pour répondre à deux niveaux d'utilisation :
+**YnovTag** a été conçu pour répondre à deux niveaux d'utilisation :
 
-### 1. Les utilisateurs simple avec un accès libre :
+### 1. Les utilisateurs simples avec un accès libre :
 
 - **Chiffrement** : Transformer sa donnée en image contenant le message caché
 - **Déchiffrement** : Réveler la donnée cachée de son image
@@ -19,22 +19,22 @@ Notre objectif est de réaliser une interface simple et intuitive pour permettre
 ### 2. Les utilisateurs connectés :
 
 - **Authentification** : Inscription ou Connection sécurisée
-- **Sauvegardes** : Sauvegarder l'ensemble des données cyptées pour les retrouver
+- **Sauvegardes** : Sauvegarder l'ensemble des données cryptées pour les retrouver
 
 ## Resultat
 
-Désormais il est possbile de chiffrer ses données en les transformant en image.
+Désormais, il est possible de chiffrer ses données en les transformant en image.
 
-### Pour se faire une fois arriver sur **YnovTag**, plusieurs actions sont possiblent : 
+### Pour se faire une fois arriver sur **YnovTag**, plusieurs actions sont possibles : 
 
 - **Si l'on souhaite encoder une donnée** : 
 
-Il vous suffit de cliquer sur le boutton **Encoder mon texte**, cela vous emmène sur la page correspondante, vous entrez votre texte à proteger, vous choisissez ensuite le patherne souhaité, vous appuiyez sur le boutton pour encoder, enfin, votre image est affichée.
+Il vous suffit de cliquer sur le bouton **Encoder mon texte**, cela vous emmène sur la page correspondante, vous entrez votre texte à protéger, vous choisissez ensuite l'image de couverture souhaitée, vous appuyiez sur le bouton pour encoder, enfin, votre image est affichée.
 
 - **Si l'on souhaite décoder une image** : 
 
-Cliquez sur le boutton **Décoder mon image**, ensuite vous serez dirigé sur autre page, vous pourrezz entrer votre image, enfin, votre donnée sera affiché.
+Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez entrer votre image, enfin, votre donnée sera affiché.
 
 - **Si l'on souhaite accéder a notre compte** : 
 
-Il faut cliquer sur le boutton **Mon compte**, cela vous emenera sur votre profil, vous pourrez esnuite modifier vos infos personnelles, et/ou accéder a l'historique.
+Il faut cliquer sur le bouton **Mon compte**, cela vous emmènera sur votre profil, vous pourrez ensuite modifier vos infos personnelles, et/ou accéder à l'historique.
