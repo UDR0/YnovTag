@@ -4,7 +4,7 @@
 
 Dans notre société actuelle, **sécuriser ses données** est désormais primordial. Grâce à **YnovTag**, il est désormais possible de **transformer vos données sensibles en image sécurisée !**
 
-Nous utilisons un procédé de **stéganographie**, c'est-à-dire **dissimuler une information** dans un autre fichier pour la rendre **indétectable** à autrui.
+Nous utilisons un procédé de **stéganographie**, c'est-à-dire **la dissimulation d'une information** dans un autre fichier pour la rendre **indétectable** à autrui.
 Notre objectif est de réaliser une interface **simple** et **intuitive** pour permettre à quiconque, sans nécessairement de connaissances en cybersécurité de **protéger ses données en les transformant en image**.
 
 ## Besoin
@@ -21,7 +21,7 @@ Notre objectif est de réaliser une interface **simple** et **intuitive** pour p
 - **Authentification** : Inscription ou Connexion sécurisée
 - **Sauvegardes** : Sauvegarder l'ensemble des données cryptées pour les retrouver
 
-## Resultat
+## Résultat
 
 Désormais, il est possible de chiffrer ses données en les transformant en image.
 
@@ -29,12 +29,12 @@ Désormais, il est possible de chiffrer ses données en les transformant en imag
 
 - **Si l'on souhaite encoder une donnée** : 
 
-Il vous suffit de cliquer sur le bouton **Encoder mon texte**, cela vous emmène sur la page correspondante, vous entrez votre texte à protéger, vous choisissez ensuite l'image de couverture souhaitée, vous appuyiez sur le bouton pour encoder, enfin, votre image est affichée.
+Il vous suffit de cliquer sur le bouton **Encoder mon texte**, cela vous emmène sur la page correspondante, vous entrez votre texte à protéger, vous choisissez ensuite l'image de couverture souhaitée, vous cliquez sur le bouton pour encoder, enfin, votre image est affichée.
 
 - **Si l'on souhaite décoder une image** : 
 
-Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez entrer votre image, enfin, votre donnée sera affichée.
+Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez importez votre image, enfin, le contenu dissimulé s’affiche.
 
 - **Si l'on souhaite accéder à notre compte** : 
 
-Il faut cliquer sur le bouton **Mon compte**, cela vous emmènera sur votre profil, vous pourrez ensuite modifier vos infos personnelles, et/ou accéder à l'historique.
+Il faut cliquer sur le bouton **Mon compte**, cela vous emmènera sur votre profil, vous pourrez ensuite modifier vos informations personnelles, et/ou accéder à l'historique.
