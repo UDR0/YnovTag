@@ -11,12 +11,12 @@ Notre objectif est de réaliser une interface **simple** et **intuitive** pour p
 
 **YnovTag** a été conçu pour répondre à deux niveaux d'utilisation :
 
-### Niveau 1 : Les utilisateurs simples avec un accès libre ne souhaitant pas créer de compte :
+### Niveau 1 : Les utilisateurs simples avec un accès libre ne souhaitant pas créer de compte
 
 - **Chiffrement** : Transformer sa donnée en image contenant le message caché
 - **Déchiffrement** : Révéler la donnée cachée de son image
 
-### Niveau 2 : Les utilisateurs ayant un compte :
+### Niveau 2 : Les utilisateurs ayant un compte
 
 - **Mêmes droits que les utilisateurs de niveau 1**
 - **Authentification** : Inscription ou Connexion sécurisée
