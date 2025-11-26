@@ -14,18 +14,18 @@ Notre objectif est de réaliser une interface **simple** et **intuitive** pour p
 ### 1. Les utilisateurs simples avec un accès libre :
 
 - **Chiffrement** : Transformer sa donnée en image contenant le message caché
-- **Déchiffrement** : Réveler la donnée cachée de son image
+- **Déchiffrement** : Révéler la donnée cachée de son image
 
 ### 2. Les utilisateurs connectés :
 
-- **Authentification** : Inscription ou Connection sécurisée
+- **Authentification** : Inscription ou Connexion sécurisée
 - **Sauvegardes** : Sauvegarder l'ensemble des données cryptées pour les retrouver
 
 ## Resultat
 
 Désormais, il est possible de chiffrer ses données en les transformant en image.
 
-### Pour se faire une fois arriver sur **YnovTag**, plusieurs actions sont possibles : 
+### Pour ce faire une fois arrivé sur **YnovTag**, plusieurs actions sont possibles : 
 
 - **Si l'on souhaite encoder une donnée** : 
 
@@ -33,8 +33,8 @@ Il vous suffit de cliquer sur le bouton **Encoder mon texte**, cela vous emmène
 
 - **Si l'on souhaite décoder une image** : 
 
-Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez entrer votre image, enfin, votre donnée sera affiché.
+Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez entrer votre image, enfin, votre donnée sera affichée.
 
-- **Si l'on souhaite accéder a notre compte** : 
+- **Si l'on souhaite accéder à notre compte** : 
 
 Il faut cliquer sur le bouton **Mon compte**, cela vous emmènera sur votre profil, vous pourrez ensuite modifier vos infos personnelles, et/ou accéder à l'historique.
