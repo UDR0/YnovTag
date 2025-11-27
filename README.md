@@ -36,7 +36,7 @@ Il vous suffit de cliquer sur le bouton **Encoder mon texte**, cela vous emmène
 
 Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez importer votre image, enfin, le contenu dissimulé s’affiche.
 
-- **Si l'on souhaite accéder à notre compte** : 
+- **Si l'on souhaite accéder à son compte** : 
 
 Il faut cliquer sur le bouton **Mon compte**, cela vous emmènera sur votre profil, vous pourrez ensuite modifier vos informations personnelles, et/ou accéder à l'historique.
 
@@ -53,7 +53,7 @@ Nous avons choisi ce patron pour centraliser l'accès aux fichiers. Chaque utili
 
 - **Patron Fabrique**
 
-Ce patron va servir à la **création des utilisateurs**. Au lieu de répéter toutes les étapes de création (hachage mot de passe, historique vide). Il va permettre que tous les utilisateurs soient créés de la même façon et **sans risque d'erreur**.
+Ce patron va servir à la **création des utilisateurs**. Au lieu de répéter toutes les étapes de création (hachage mot de passe, historique vide), il va permettre que tous les utilisateurs soient créés de la même façon et **sans risque d'erreur**.
 
 - **Patron Façade**
 
