@@ -34,7 +34,7 @@ Il vous suffit de cliquer sur le bouton **Encoder mon texte**, cela vous emmène
 
 - **Si l'on souhaite décoder une image** : 
 
-Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez importez votre image, enfin, le contenu dissimulé s’affiche.
+Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une autre page, vous pourrez importer votre image, enfin, le contenu dissimulé s’affiche.
 
 - **Si l'on souhaite accéder à notre compte** : 
 
