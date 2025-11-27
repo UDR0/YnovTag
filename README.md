@@ -39,3 +39,22 @@ Cliquez sur le bouton **Décoder mon image**, ensuite vous serez dirigé sur une
 - **Si l'on souhaite accéder à notre compte** : 
 
 Il faut cliquer sur le bouton **Mon compte**, cela vous emmènera sur votre profil, vous pourrez ensuite modifier vos informations personnelles, et/ou accéder à l'historique.
+
+
+## Justification des patrons
+
+Pour l'architecture globale on va utiliser le modèle **MVC** pour séparer les responsabilités des classes.
+
+**Patrons utilisés**
+
+- **Patron Singleton**
+
+Nous avons choisi ce patron pour centraliser l'accès aux fichiers. Chaque utilisateur aura son propre fichier JSON (pseudo.json). Ce patron va donc être le gestionnaire d'utilisateurs car c'est lui qui va assurer que chaque utilisateur soit connecté et puisse modifier son repository.
+
+- **Patron Fabrique**
+
+Ce patron va servir à la création des utilisateurs. Au lieu de répéter toutes les étapes de création (hachage mot de passe, historique vide). Il va permettre que tous les utilisateurs soient créés de la même façon et sans risque d'erreur.
+
+- **Patron Façade**
+
+L'algorithme de génération d'image est assez complexe. Nous avons donc choisi de faire une classe qui va faire en sorte que le code web reste propre et lisible. Comme ça en appuyant sur le bouton "Générer mon image cryptée" le contrôleur appellera facilement la méthode.
