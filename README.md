@@ -45,7 +45,7 @@ Il faut cliquer sur le bouton **Mon compte**, cela vous emmènera sur votre prof
 
 Pour l'architecture globale on va utiliser le modèle **MVC** pour séparer les responsabilités des classes.
 
-**Patrons utilisés :**
+### Patrons utilisés :
 
 - **Patron Singleton**
 
